@@ -49,7 +49,7 @@ export default function Navbar() {
           }} id="nav-toggle">
             <BsFilterSquare size={"25px"}/>
           </div>
-          <a href="#" className="filled-button is-filled-hero-button w-button">
+          <a href="https://app.gearfi.in/" className="filled-button is-filled-hero-button w-button">
             Open App
           </a>
         </nav>
