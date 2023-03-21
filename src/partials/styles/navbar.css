@@ -163,6 +163,10 @@ a {
 	.button__header {
 		display: none;
 	}
+
+	.w-button {
+		display: none;
+	}
 }
 
 @media screen and (max-width: 870px) {
