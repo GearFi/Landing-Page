@@ -1,0 +1,51 @@
+// Import Google Monoton Font
+@import url("https://fonts.googleapis.com/css?family=Monoton");
+
+.landing {
+  .hero-info {
+    p {
+      font-size: 1.2em;
+    }
+    .gtext {
+      font-size: 1.3em;
+      font-weight: 300;
+    }
+    h1 {
+      font-size: 2.5em;
+    }
+
+  }
+
+  .hero-img{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+  }
+
+  .hero-img img{
+    width: 40%;
+    filter: drop-shadow(20px 20px 10px black);
+    rotate: 0 1 0 15deg;
+  }
+
+  .gear-text{
+    font-family: "Monoton", cursive;
+    font-size: 80px;
+    color: #33e355;
+    font-weight: 400;
+    letter-spacing: 8px;
+  }
+
+  @media screen and (max-width: 865px) {
+    .flicker-text {
+      display: none;
+    }
+
+    .neon {
+      font-size: 20px;
+    }
+
+  }
+
+  }
