@@ -30,7 +30,7 @@ export default function VersatileToken() {
           <div className="s6-image-wrapper">
             <div>
               <img
-                src="assets/img/community.jpg"
+                src="assets/img/community.png"
                 className="s3-box-image"
               />
             </div>
